@@ -1,5 +1,5 @@
-## 👋 สวัสดีครับ ผมคือ Ratcha!  
-💻 Software Developer | 🛠️ สนใจด้าน Web Development, Backend, Fullstack, และ Testing  
+## 👋 สวัสดีครับ ผมชื่อ Ratcha!  
+💻 Web Application Developer | 🛠️ สนใจด้าน Web Application Developer, Software Developer, Backend, Fullstack, และ Testing  
 
 ## 🚀 เกี่ยวกับฉัน
 - 🔭 กำลังพัฒนาโปรเจกต์ด้วย:  
@@ -10,7 +10,8 @@
   - React + Node.js + Express (พื้นฐาน)  
 - 🌱 สนใจเรียนรู้เพิ่มเติมด้าน Web Developer (Backend & Fullstack) และงาน Testing  
 - 💬 ยินดีพูดคุยเกี่ยวกับ: Web Development, Backend, Fullstack, และ Testing  
-- 🌍 GitHub Projects: [ดูโปรเจกต์ของผม](https://github.com/beroxz-ratcha)  
+- 🌍 GitHub Projects: [ดูโปรเจกต์ของผม](https://github.com/beroxz-ratcha)
+-  📍 **Bangkok, Wongwian Yai**
 
 ## 🧰 เทคโนโลยีและ Tools
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
