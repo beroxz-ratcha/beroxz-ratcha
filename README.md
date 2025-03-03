@@ -7,7 +7,7 @@
   - Angular + Java Spring Boot  
   - PHP Laravel + Vue.js  
   - Next.js  
-  - React + Node.js + Express (พื้นฐาน)  
+  - React + Node.js + Express
 - 🌱 สนใจเรียนรู้เพิ่มเติมด้าน Web Developer (Backend & Fullstack) และงาน Testing  
 - 💬 ยินดีพูดคุยเกี่ยวกับ: Web Development, Backend, Fullstack, และ Testing  
 - 🌍 GitHub Projects: [ดูโปรเจกต์ของผม](https://github.com/beroxz-ratcha)
