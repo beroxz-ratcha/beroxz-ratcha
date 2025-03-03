@@ -1,4 +1,4 @@
-## 👋 สวัสดีครับ ผมชื่อ Ratcha!  
+## 👋 Ratcha!  
 💻 Web Application Developer | 🛠️ สนใจด้าน Web Application Developer, Software Developer, Backend, Fullstack, และ Testing  
 
 ## 🚀 เกี่ยวกับฉัน
